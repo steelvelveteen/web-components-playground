@@ -8,6 +8,7 @@ There has been some updates on webpack and webpack-dev-server command is not nee
 
 I will start with a needed refresh course on DOM and will also review
 shadow dom concepts before starting.
+Might consider using jquery at a later stage ...
 
 ### Branches  
 
