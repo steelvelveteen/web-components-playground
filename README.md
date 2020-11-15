@@ -2,6 +2,12 @@
 
 ## Exploring web components using pure lovely vanilla typescript  
 
+## Bootstrap
+
+`npm install bootstrap`
+
+add @import statement to the scss file
+
 ### Documentation  
 
 [Mozilla MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
