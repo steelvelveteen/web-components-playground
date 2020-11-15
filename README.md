@@ -4,7 +4,7 @@
 
 ### Documentation  
 
-[Mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+[Mozilla MDN Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
 
 ### How to run and repo description
 
