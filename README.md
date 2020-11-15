@@ -2,6 +2,10 @@
 
 ## Exploring web components using pure lovely vanilla typescript  
 
+### Documentation  
+
+[Mozilla MDN](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
+
 ### How to run and repo description
 
 There has been some updates on webpack and webpack-dev-server command is not needed any more, just webpack serve which behind the scenes will call webpack-dev-server.
