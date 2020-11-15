@@ -2,9 +2,11 @@
 
 ## Exploring web components using pure lovely vanilla typescript  
 
-### How to run and repo descriptin
+### How to run and repo description
 
 There has been some updates on webpack and webpack-dev-server command is not needed any more, just webpack serve which behind the scenes will call webpack-dev-server.
+
+` npm run watch `
 
 I will start with a needed refresh course on DOM and will also review
 shadow dom concepts before starting.
