@@ -18,8 +18,7 @@ There has been some updates on webpack and webpack-dev-server command is not nee
 
 ` npm run watch `
 
-I will start with a needed refresh course on DOM and will also review
-shadow dom concepts before starting.
+I will start with a needed refresh course on DOM and will also review shadow dom concepts before starting mostly because of Typescript types.
 Might consider using jquery at a later stage ...
 
 ### Branches  
