@@ -26,5 +26,6 @@ Might consider using jquery at a later stage ...
 010 - DOM Part I  
 020 - DOM Part II  
 030 - DOM Part III  
+040 - DOM Practical Exercise  
 
 #### Exercises
