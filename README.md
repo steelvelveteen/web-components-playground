@@ -27,5 +27,6 @@ Might consider using jquery at a later stage ...
 020 - DOM Part II  
 030 - DOM Part III  
 040 - DOM Practical Exercise  
+050 - Web Components Basics  
 
 #### Exercises
